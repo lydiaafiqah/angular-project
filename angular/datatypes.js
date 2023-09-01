@@ -25,3 +25,4 @@ var Color;
 })(Color || (Color = {}));
 let c = Color.Red;
 console.log(c);
+console.log('test', c)
